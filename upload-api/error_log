@@ -1,0 +1,4 @@
+[17-Oct-2016 03:10:58] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home6/alaminc2/public_html/signet/upload-api/upload-api.php on line 26
+[17-Oct-2016 03:11:24] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home6/alaminc2/public_html/signet/upload-api/upload-api.php on line 26
+[17-Oct-2016 03:12:20] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home6/alaminc2/public_html/signet/upload-api/upload-api.php on line 26
+[17-Oct-2016 03:23:04] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home6/alaminc2/public_html/signet/upload-api/upload-api.php on line 26

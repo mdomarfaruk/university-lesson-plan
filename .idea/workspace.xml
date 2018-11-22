@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6501bccc-5787-4bcb-b4e1-0388c49fc72d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="left_menu.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/dashboard/includes/left_menu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="50" column="95" selection-start-line="50" selection-start-column="95" selection-end-line="50" selection-end-column="95" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="course_entry.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/dashboard/lesson_plan/course_entry.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1377">
+              <caret line="81" column="33" selection-start-line="81" selection-start-column="33" selection-end-line="81" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="course_assign.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/dashboard/lesson_plan/course_assign.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1819">
+              <caret line="107" column="31" selection-start-line="107" selection-start-column="31" selection-end-line="107" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LessonplanController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/LessonplanController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7276">
+              <caret line="428" column="67" lean-forward="true" selection-start-line="428" selection-start-column="12" selection-end-line="428" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dashboardcontroller.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Dashboardcontroller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="83" selection-start-line="21" selection-start-column="83" selection-end-line="21" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Smodel.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/Smodel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15147">
+              <caret line="891" column="8" selection-start-line="891" selection-start-column="8" selection-end-line="891" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lessonplan_view.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/dashboard/lesson_plan/lessonplan_view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="986">
+              <caret line="58" column="119" selection-start-line="58" selection-start-column="119" selection-end-line="58" selection-end-column="119" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="frontpage.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/views/dashboard/frontpage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-391">
+              <caret line="16" column="8" selection-end-line="95" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lessonplanlist.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/dashboard/lesson_plan/lessonplanlist.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1122">
+              <caret line="66" column="115" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="115" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="session_entry.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/dashboard/lesson_plan/session_entry.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2839">
+              <caret line="167" column="69" selection-start-line="167" selection-start-column="64" selection-end-line="167" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>real Estate</find>
+      <find>viewuserlist</find>
+      <find>sum</find>
+      <find>teacher_dashboard</find>
+      <find>hideUserInfo</find>
+      <find>teacher_entry</find>
+      <find>&lt;</find>
+      <find>get_teacher_info</find>
+      <find>&gt;</find>
+      <find>class=&quot;select2</find>
+      <find>teacher_code</find>
+      <find>con_course_info</find>
+      <find>course_entry</find>
+      <find>getCouseInfo</find>
+      <find>createlessonplan</find>
+      <find>getAllCourse</find>
+      <find>whereOrderDataMultiple</find>
+      <find>getSessionCourseInfo</find>
+      <find>addFloor</find>
+      <find>$user_role</find>
+      <find>session_entry</find>
+      <find>shohozit_user_id</find>
+      <find>shift</find>
+      <find>get_session_info</find>
+      <find>lessonplanlist</find>
+      <find>lessonplan_view</find>
+      <find>view_single_lesson_info</find>
+      <find>view_all_lesson_info</find>
+      <find>getCourseAssingInfo</find>
+      <find>course_assign</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>project_id</replace>
+      <replace>Sales Person</replace>
+      <replace>Sales</replace>
+      <replace>shohozit_role</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/views/dashboard/invoice/searchingIncoiceInfo.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/invoice/installment_collection.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/viewbank.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/bankstatement.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/projectFolder/addProjectFloorInfo.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Processcontroller.php" />
+        <option value="$PROJECT_DIR$/application_old/views/dashboard/master_dashboard_panel.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/customer/customer_details.php" />
+        <option value="$PROJECT_DIR$/application/models/Customermodel.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Customercontroller.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/customer/viewcustomer.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/invoice/viewdueinvoice.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/invoice/money_receipt.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/invoice/get_all_installment_info.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/customerDashboard.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/invoice/installment_schedule.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/invoice/viewinvoice.php" />
+        <option value="$PROJECT_DIR$/application/models/Invoicemodel.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/invoice/createinvoice.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/invoice/editinvoiceforaddpayment.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Billingcontroller.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/invoice/printviewinvoice.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/supplier/supplierStatement.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Suppliercontroller.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/supplier/viewsupplierlist.php" />
+        <option value="$PROJECT_DIR$/application/models/Suppliermodel.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Purchasecontroller.php" />
+        <option value="$PROJECT_DIR$/application/config/database.php" />
+        <option value="$PROJECT_DIR$/application/controllers/lessonplanController.php" />
+        <option value="$PROJECT_DIR$/application/controllers/configuration/Configure_controller.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/projectFolder/viewFloorInfo.php" />
+        <option value="$PROJECT_DIR$/application/config/autoload.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/adduser.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/viewuserlist.php" />
+        <option value="$PROJECT_DIR$/application/models/Dashboardmodel.php" />
+        <option value="$PROJECT_DIR$/application/models/Userauthmodel.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/lesson_plan/setting.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Authenticationcontroller.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/lesson_plan/teacher_entry.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/master_dashboard_panel.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/lesson_plan/course_entry.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/lesson_plan/createlessonplan.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/lesson_plan/course_assign.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/lesson_plan/session_entry.php" />
+        <option value="$PROJECT_DIR$/application/controllers/LessonplanController.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/lesson_plan/lessonplanlist.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/lesson_plan/lessonplan_view.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/frontpage.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Dashboardcontroller.php" />
+        <option value="$PROJECT_DIR$/application/models/Smodel.php" />
+        <option value="$PROJECT_DIR$/application/views/dashboard/includes/left_menu.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1024" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="versity_lesson_plan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="versity_lesson_plan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="versity_lesson_plan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="versity_lesson_plan" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="versity_lesson_plan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="versity_lesson_plan" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="versity_lesson_plan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="versity_lesson_plan" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="versity_lesson_plan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="versity_lesson_plan" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="versity_lesson_plan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="versity_lesson_plan" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="versity_lesson_plan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="versity_lesson_plan" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson_plan" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6501bccc-5787-4bcb-b4e1-0388c49fc72d" name="Default" comment="" />
+      <created>1503729341142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1503729341142</updated>
+      <workItem from="1503729343287" duration="5043000" />
+      <workItem from="1503813306251" duration="19272000" />
+      <workItem from="1503894288535" duration="21812000" />
+      <workItem from="1503982155974" duration="1014000" />
+      <workItem from="1503985456208" duration="21366000" />
+      <workItem from="1504066770619" duration="2865000" />
+      <workItem from="1504071145760" duration="634000" />
+      <workItem from="1504072149772" duration="3763000" />
+      <workItem from="1504939344048" duration="10385000" />
+      <workItem from="1505019156197" duration="595000" />
+      <workItem from="1505021324918" duration="17938000" />
+      <workItem from="1505106355503" duration="16552000" />
+      <workItem from="1505191946357" duration="22178000" />
+      <workItem from="1505277732190" duration="14306000" />
+      <workItem from="1505363363657" duration="161000" />
+      <workItem from="1505363863078" duration="15841000" />
+      <workItem from="1505534880430" duration="4529000" />
+      <workItem from="1505553917985" duration="71000" />
+      <workItem from="1505562618769" duration="1562000" />
+      <workItem from="1505726440791" duration="239000" />
+      <workItem from="1505981392658" duration="2181000" />
+      <workItem from="1505983676099" duration="666000" />
+      <workItem from="1505986191422" duration="5683000" />
+      <workItem from="1506506779827" duration="100000" />
+      <workItem from="1506507325802" duration="684000" />
+      <workItem from="1506590720604" duration="6293000" />
+      <workItem from="1506833085353" duration="17237000" />
+      <workItem from="1523556834064" duration="2608000" />
+      <workItem from="1523652379820" duration="553000" />
+      <workItem from="1532834337948" duration="985000" />
+      <workItem from="1532886462195" duration="490000" />
+      <workItem from="1533491830477" duration="760000" />
+      <workItem from="1533665377820" duration="7239000" />
+      <workItem from="1533781889080" duration="211000" />
+      <workItem from="1533868932153" duration="4722000" />
+      <workItem from="1533908623480" duration="5227000" />
+      <workItem from="1533956342609" duration="3184000" />
+      <workItem from="1534042506012" duration="2340000" />
+      <workItem from="1534092503417" duration="5032000" />
+      <workItem from="1534306830544" duration="13603000" />
+      <workItem from="1534390617613" duration="36489000" />
+      <workItem from="1534511239160" duration="9442000" />
+      <workItem from="1534567701101" duration="30930000" />
+      <workItem from="1534653091302" duration="227000" />
+      <workItem from="1534671342149" duration="7595000" />
+      <workItem from="1534687656169" duration="6212000" />
+      <workItem from="1535426144861" duration="970000" />
+      <workItem from="1535509413921" duration="1285000" />
+      <workItem from="1535648363293" duration="1385000" />
+      <workItem from="1536027106297" duration="773000" />
+      <workItem from="1537466195277" duration="6915000" />
+      <workItem from="1537506048638" duration="1260000" />
+      <workItem from="1537518576043" duration="10418000" />
+      <workItem from="1537638628833" duration="8517000" />
+      <workItem from="1537726085210" duration="28946000" />
+      <workItem from="1537980299265" duration="10065000" />
+      <workItem from="1538102890876" duration="2045000" />
+      <workItem from="1538123651884" duration="3017000" />
+      <workItem from="1538131286698" duration="1965000" />
+      <workItem from="1538503349536" duration="259000" />
+      <workItem from="1538794430901" duration="11301000" />
+      <workItem from="1538970512636" duration="7077000" />
+      <workItem from="1539106498348" duration="2391000" />
+      <workItem from="1539405012668" duration="1399000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="450807000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="2" width="1024" height="733" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33817428" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/Purchasecontroller.php</url>
+          <line>208</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/Purchasecontroller.php</url>
+          <line>388</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/Expensecontroller.php</url>
+          <line>218</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/models/Smodel.php</url>
+          <line>709</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/Reportcontroller.php</url>
+          <line>116</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/Customercontroller.php</url>
+          <line>434</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/Customercontroller.php</url>
+          <line>82</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/Billingcontroller.php</url>
+          <line>1159</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/ProjectController.php</url>
+          <line>294</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/Expensecontroller.php</url>
+          <line>47</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/Expensecontroller.php</url>
+          <line>283</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/Billingcontroller.php</url>
+          <line>1442</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/LessonplanController.php</url>
+          <line>146</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="29" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/projectFolder/projectInfo.php" />
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery-1.11.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="2019" column="3" selection-start-line="2019" selection-start-column="3" selection-end-line="2019" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application_old/views/dashboard/master_dashboard_panel.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/customer/customer_details.php" />
+    <entry file="file://$PROJECT_DIR$/application/models/Customermodel.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/invoice/viewdueinvoice.php" />
+    <entry file="file://$PROJECT_DIR$/application/controllers/Processcontroller.php" />
+    <entry file="file://$PROJECT_DIR$/application/controllers/Customercontroller.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/customer/viewcustomer.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/invoice/money_receipt.php" />
+    <entry file="file://$PROJECT_DIR$/application/controllers/Welcome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/invoice/get_all_installment_info.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/customerDashboard.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/invoice/installment_schedule.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/invoice/viewinvoice.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/invoice/createinvoice.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/invoice/editinvoiceforaddpayment.php" />
+    <entry file="file://$PROJECT_DIR$/application/controllers/Billingcontroller.php" />
+    <entry file="file://$PROJECT_DIR$/application/models/Invoicemodel.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/supplier/supplierStatement.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/supplier/viewsupplierlist.php" />
+    <entry file="file://$PROJECT_DIR$/application/controllers/Suppliercontroller.php" />
+    <entry file="file://$PROJECT_DIR$/application/controllers/Purchasecontroller.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/invoice/printviewinvoice.php" />
+    <entry file="file://$PROJECT_DIR$/application/models/Purchasemodel.php" />
+    <entry file="file://$PROJECT_DIR$/application/models/Suppliermodel.php" />
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/frontpage_director.php" />
+    <entry file="file://$PROJECT_DIR$/application/controllers/configuration/Configure_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/projectFolder/viewFloorInfo.php" />
+    <entry file="file://$PROJECT_DIR$/application/config/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/adduser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="80" column="36" selection-end-line="90" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/viewuserlist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="79" column="40" lean-forward="true" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/teacher_dashboard.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Dashboardmodel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10574">
+          <caret line="622" selection-start-line="622" selection-end-line="622" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/lesson_plan/setting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Authenticationcontroller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Userauthmodel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/master_dashboard_panel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4743">
+          <caret line="279" column="10" selection-start-line="279" selection-start-column="10" selection-end-line="279" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/lesson_plan/teacher_entry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="18" selection-end-line="285" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/lesson_plan/course_entry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="81" column="33" selection-start-line="81" selection-start-column="33" selection-end-line="81" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/lesson_plan/createlessonplan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="288" column="44" selection-start-line="288" selection-start-column="44" selection-end-line="288" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/lesson_plan/session_entry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2839">
+          <caret line="167" column="69" selection-start-line="167" selection-start-column="64" selection-end-line="167" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/lesson_plan/lessonplanlist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="115" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/lesson_plan/lessonplan_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="119" selection-start-line="58" selection-start-column="119" selection-end-line="58" selection-end-column="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Dashboardcontroller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="83" selection-start-line="21" selection-start-column="83" selection-end-line="21" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/lesson_plan/course_assign.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="107" column="31" selection-start-line="107" selection-start-column="31" selection-end-line="107" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Smodel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15147">
+          <caret line="891" column="8" selection-start-line="891" selection-start-column="8" selection-end-line="891" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/LessonplanController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7276">
+          <caret line="428" column="67" lean-forward="true" selection-start-line="428" selection-start-column="12" selection-end-line="428" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/includes/left_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="50" column="95" selection-start-line="50" selection-start-column="95" selection-end-line="50" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/dashboard/frontpage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="16" column="8" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
